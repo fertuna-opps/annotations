@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fox003.jpg</filename>
+	<path>C:\Users\ME\OneDrive\Documents\images\fox003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>904</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>102</ymin>
+			<xmax>904</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>e83cb90c28e90021d85a5854ee454296eb70e3c818b413449df6c87dafef_640.jpg</filename>
+	<path>C:\Users\ME\OneDrive\Documents\images\e83cb90c28e90021d85a5854ee454296eb70e3c818b413449df6c87dafef_640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>56</ymin>
+			<xmax>213</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
